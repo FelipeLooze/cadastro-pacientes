@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+gradio_app/pacientes.csv
+streamlit_app/pacientes.csv
